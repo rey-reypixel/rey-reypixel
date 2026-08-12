@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=C77DFF&center=true&vCenter=true&width=400&height=60&lines=Rey-Rey" alt="Rey-Rey">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&height=60&lines=%E2%96%91%E2%96%92%E2%96%93+Rey-Rey+%E2%96%93%E2%96%92%E2%96%91" alt="Rey-Rey">
 </p>
 
 <p align="center">
