@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="./banner-halloween.webp" width="100%" alt="haunted pixel study banner">
+  <img src="./banner-halloween.webp" width="50%" alt="haunted pixel study banner">
 </p>
 
 <p align="center">
