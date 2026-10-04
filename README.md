@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1500&color=FF9F43&center=true&vCenter=true&width=700&lines=summon+haunted_doodle.exe+%F0%9F%91%BB;brew+ML+eval+pipelines+%7C+hex+LLMs+on+the+side+%7C+patent+the+chaos;Snorkel+AI+%26+Handshake+%7C+ex-red+teamer+%7C+2+patents+pending;status%3A+spooky%2C+intentionally.+%F0%9F%95%AF%EF%B8%8F" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1500&color=FF9F43&center=true&vCenter=true&width=700&lines=summon+haunted_doodle.exe+%F0%9F%91%BB;brew+ML+eval+pipelines+%7C+hex+LLMs+on+the+side+%7C+patent+the+chaos;Mercor+%26+Handshake+%7C+%7C+2+patents+pending;status%3A+spooky%2C+intentionally.+%F0%9F%95%AF%EF%B8%8F" alt="Typing SVG">
 </p>
 
 <p align="center">
